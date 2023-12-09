@@ -1,6 +1,6 @@
 // Exercise 05: Tiny Tween Chain
-// Name:
-// Date:
+// Name: Zoe Feller
+// Date: 12/8
 
 // CODE ARMOR
 'use strict'
